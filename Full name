@@ -1,0 +1,10 @@
+f = input("enter your first name: ")
+m = input("enter your middle name: ")
+l = input("enter your last name: ")
+
+c=(print ("".join([f, m, l])))
+output
+enter your first name:khushi
+enter your middle name:rajesh pushpa
+enter your last name:mehta
+khushi rajesh pushpa mehta
